@@ -1,0 +1,7 @@
+E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.Document.Excel.NPOI.Resource1.resources
+E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.csproj.GenerateResource.Cache
+E:\Alex\code\AL.Web\AL.Utils\bin\Debug\AL.Utils.dll
+E:\Alex\code\AL.Web\AL.Utils\bin\Debug\AL.Utils.pdb
+E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.dll
+E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.pdb
+E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\Alex\code\AL.Web\AL.Data\bin\Debug\AL.Data.dll
+E:\Alex\code\AL.Web\AL.Data\bin\Debug\AL.Data.pdb
+E:\Alex\code\AL.Web\AL.Data\obj\Debug\AL.Data.dll
+E:\Alex\code\AL.Web\AL.Data\obj\Debug\AL.Data.pdb

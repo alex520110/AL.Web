@@ -1,0 +1,11 @@
+E:\Alex\code\AL.Web\AL.Core\obj\Debug\AL.Core.csprojResolveAssemblyReference.cache
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Core.dll
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Core.pdb
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Data.dll
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Utils.dll
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Data.pdb
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Utils.pdb
+E:\Alex\code\AL.Web\AL.Core\bin\Debug\Newtonsoft.Json.xml
+E:\Alex\code\AL.Web\AL.Core\obj\Debug\AL.Core.dll
+E:\Alex\code\AL.Web\AL.Core\obj\Debug\AL.Core.pdb
