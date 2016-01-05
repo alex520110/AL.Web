@@ -10,5 +10,7 @@ namespace AL.Services
 {
     public class userService : ServiceBase<Class1>
     {
+
+
     }
 }
