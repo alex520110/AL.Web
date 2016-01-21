@@ -5,3 +5,10 @@ E:\Alex\code\AL.Web\AL.Utils\bin\Debug\AL.Utils.pdb
 E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.dll
 E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.pdb
 E:\Alex\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.csprojResolveAssemblyReference.cache
+F:\code\AL.Web\AL.Utils\bin\Debug\AL.Utils.dll
+F:\code\AL.Web\AL.Utils\bin\Debug\AL.Utils.pdb
+F:\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.csprojResolveAssemblyReference.cache
+F:\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.Document.Excel.NPOI.Resource1.resources
+F:\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.csproj.GenerateResource.Cache
+F:\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.dll
+F:\code\AL.Web\AL.Utils\obj\Debug\AL.Utils.pdb

@@ -2,3 +2,8 @@ E:\Alex\code\AL.Web\AL.Data\bin\Debug\AL.Data.dll
 E:\Alex\code\AL.Web\AL.Data\bin\Debug\AL.Data.pdb
 E:\Alex\code\AL.Web\AL.Data\obj\Debug\AL.Data.dll
 E:\Alex\code\AL.Web\AL.Data\obj\Debug\AL.Data.pdb
+F:\code\AL.Web\AL.Data\bin\Debug\AL.Data.dll
+F:\code\AL.Web\AL.Data\bin\Debug\AL.Data.pdb
+F:\code\AL.Web\AL.Data\obj\Debug\AL.Data.csprojResolveAssemblyReference.cache
+F:\code\AL.Web\AL.Data\obj\Debug\AL.Data.dll
+F:\code\AL.Web\AL.Data\obj\Debug\AL.Data.pdb

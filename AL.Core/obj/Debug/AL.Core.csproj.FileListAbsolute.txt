@@ -9,3 +9,14 @@ E:\Alex\code\AL.Web\AL.Core\bin\Debug\AL.Utils.pdb
 E:\Alex\code\AL.Web\AL.Core\bin\Debug\Newtonsoft.Json.xml
 E:\Alex\code\AL.Web\AL.Core\obj\Debug\AL.Core.dll
 E:\Alex\code\AL.Web\AL.Core\obj\Debug\AL.Core.pdb
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Core.dll
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Core.pdb
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Data.dll
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Utils.dll
+F:\code\AL.Web\AL.Core\bin\Debug\Newtonsoft.Json.dll
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Data.pdb
+F:\code\AL.Web\AL.Core\bin\Debug\AL.Utils.pdb
+F:\code\AL.Web\AL.Core\bin\Debug\Newtonsoft.Json.xml
+F:\code\AL.Web\AL.Core\obj\Debug\AL.Core.csprojResolveAssemblyReference.cache
+F:\code\AL.Web\AL.Core\obj\Debug\AL.Core.dll
+F:\code\AL.Web\AL.Core\obj\Debug\AL.Core.pdb
